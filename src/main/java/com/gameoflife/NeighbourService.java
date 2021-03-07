@@ -1,7 +1,6 @@
 package com.gameoflife;
 
 import com.gameoflife.model.Cell;
-
 import java.util.List;
 
 import static com.gameoflife.model.Grid.gridAtT;

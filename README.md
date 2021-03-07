@@ -8,4 +8,4 @@ Initial configuration can be set in [Grid](src/main/java/com/gameoflife/model/Gr
 
 ![Glider GIF][glider]
 
-[glider]: resources/glider.gif "Glider GIF"
+[glider]: src/main/java/resources/glider.gif "Glider GIF"
